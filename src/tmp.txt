@@ -1,0 +1,98 @@
+found "type" keyword
+type "EventType" added to the list
+found "record" definition
+record type "EventTypeRec" added to the list
+record is extention of "Services.ObjectRec"
+found "const" keyword
+constant "default" added to the list
+constant "ignore" added to the list
+constant "funcs" added to the list
+found "type" keyword
+type "Reaction" added to the list
+type "Message" added to the list
+type "Event" added to the list
+found "record" definition
+record type "EventRec" added to the list
+record is extention of "Objects.ObjectRec"
+found field "type"
+found field "message"
+type "EventHandler" added to the list
+type "EventManager" added to the list
+type "Priority" added to the list
+type "HandlerList" added to the list
+found "record" definition
+record type "HandlerRec" added to the list
+record is extention of "Objects.ObjectRec"
+found field "handler"
+found field "next"
+type "PrioritySystem" added to the list
+found "record" definition
+record type "PrioritySystemRec" added to the list
+record is extention of "Objects.ObjectRec"
+found "const" keyword
+constant "priorityViolation" added to the list
+constant "unbalancedExitPriority" added to the list
+constant "unbalancedRestoreReaction" added to the list
+constant "negPriority" added to the list
+constant "errorcodes" added to the list
+found "type" keyword
+type "ErrorEvent" added to the list
+found "record" definition
+record type "ErrorEventRec" added to the list
+record is extention of "EventRec"
+found field "errorcode"
+found "var" keyword
+variable "errormsg" added to the list
+variable "error" added to the list
+found "procedure" keyword
+procedure "Define" added to the list
+found "procedure" keyword
+procedure "Init" added to the list
+found "procedure" keyword
+procedure "GetReaction" added to the list
+found "procedure" keyword
+procedure "SetPriority" added to the list
+found "procedure" keyword
+procedure "GetEventPriority" added to the list
+found "procedure" keyword
+procedure "Manager" added to the list
+found "procedure" keyword
+procedure "Handler" added to the list
+found "procedure" keyword
+procedure "RemoveHandlers" added to the list
+found "procedure" keyword
+procedure "Ignore" added to the list
+found "procedure" keyword
+procedure "GetHandlers" added to the list
+found "procedure" keyword
+procedure "Log" added to the list
+found "procedure" keyword
+procedure "GetLog" added to the list
+found "procedure" keyword
+procedure "QueueHandler" added to the list
+found "procedure" keyword
+procedure "AbortHandler" added to the list
+found "procedure" keyword
+procedure "GetAbortHandler" added to the list
+found "procedure" keyword
+procedure "Raise" added to the list
+found "procedure" keyword
+procedure "CreatePrioritySystem" added to the list
+found "procedure" keyword
+procedure "CurrentPrioritySystem" added to the list
+found "procedure" keyword
+procedure "SwitchPrioritySystem" added to the list
+found "procedure" keyword
+procedure "EnterPriority" added to the list
+found "procedure" keyword
+procedure "AssertPriority" added to the list
+found "procedure" keyword
+procedure "ExitPriority" added to the list
+found "procedure" keyword
+procedure "GetPriority" added to the list
+found "procedure" keyword
+procedure "NilHandler" added to the list
+found "procedure" keyword
+procedure "SaveReaction" added to the list
+found "procedure" keyword
+procedure "RestoreReaction" added to the list
